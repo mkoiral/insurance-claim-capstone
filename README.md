@@ -1,10 +1,12 @@
-Insurance Claim Prediction Using Machine Learning
-Risk Modeling and Cost Prediction with Structured Healthcare Data
-Project Overview
+##Insurance Claim Prediction Using Machine Learning
+##Risk Modeling and Cost Prediction with Structured Healthcare Data
+#Project Overview
 Insurance companies must accurately predict claim likelihood and expected costs to manage financial risk and optimize pricing strategies. This project applies machine learning techniques to predict whether a policyholder is likely to file a claim and to estimate insurance charges using demographic and health-related data. Multiple machine learning models were compared to identify the most effective approach for structured tabular data.
-Problem Statement
+
+##Problem Statement
 Traditional insurance risk assessment relies on manual rules and limited statistical models, which may fail to capture complex relationships between customer attributes and claim behavior. This project focuses on predicting claim likelihood, estimating insurance charges, identifying key influencing factors, and comparing model performance.
-Dataset
+
+##Dataset
 The dataset contains approximately 1,300 records with features including age, sex, BMI, number of children, smoking status, and region. The targets include insuranceclaim for classification and charges for regression.
 Preprocessing and Feature Engineering
 Data preprocessing included handling missing values, encoding categorical variables, feature engineering based on exploratory data analysis, and standardizing numerical features. The dataset was split into training and testing sets to ensure model evaluation reliability.
