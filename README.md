@@ -117,12 +117,10 @@ This project demonstrates how machine learning can enhance decision-making in th
 
 ## Project Structure
 
-insurance_claim_capstone_one_data_wrangling.ipynb
-insurance_EDA_continuation_FINAL_v2.ipynb
-insurance_feature_engineering_from_eda.ipynb
-insurance_modeling.ipynb
-metrics.csv
-Insurance_Claim_Capstone_Final_Report.pdf
-insurance_claim_capstone_presentation.pptx
-README.md
-
+- 📊 [Data Wrangling](insurance_claim_capstone_one_data_wrangling.ipynb)  
+- 📊 [EDA Analysis](insurance_EDA_continuation_FINAL_v2.ipynb)  
+- ⚙️ [Feature Engineering](insurance_feature_engineering_from_eda.ipynb)  
+- 🤖 [Modeling](insurance_modeling.ipynb)  
+- 📈 [Model Metrics](model_metrics.csv)  
+- 📄 [Final Report](Insurance_Claim_Capstone_Final_Report.pdf)  
+- 📽️ [Presentation Slides](insurance_claim_capstone_presentation.pptx)  
